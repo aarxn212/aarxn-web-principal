@@ -22,8 +22,8 @@ function mostrarConocimiento(elementID) {
                             </p>
                             <p>Aquí proyectos pequeños con los que aprendí:</p>
                             <ul>
-                                <li><a href="" class="textoDestacado">Inventario de Productos</a></li>
-                                <li><a href="" class="textoDestacado">Reservas</a></li>
+                                <li><a class="textoDestacado">Inventario de Productos</a></li>
+                                <li><a class="textoDestacado">Reservas</a></li>
                             </ul>`;
             break;
 
@@ -35,9 +35,9 @@ function mostrarConocimiento(elementID) {
                             </p>
                             <p>Aquí algunos proyectos pequeños con los que aprendí:</p>
                             <ul>
-                                <li><a href="" class="textoDestacado">Discord bot</a></li>
-                                <li><a href="" class="textoDestacado">Bots</a></li>
-                                <li><a href="" class="textoDestacado">Asistente virtual</a></li>
+                                <li><a class="textoDestacado">Discord bot</a></li>
+                                <li><a class="textoDestacado">Bots</a></li>
+                                <li><a class="textoDestacado">Asistente virtual</a></li>
                             </ul>`;
             break;
         case "diseñoWeb":
@@ -52,9 +52,9 @@ function mostrarConocimiento(elementID) {
                             </p>
                             <p>Aquí algunos proyectos con los que aprendí:</p>
                             <ul>
-                                <li><a href="" class="textoDestacado">Portafolio web</a></li>
-                                <li><a href="" class="textoDestacado">Webs para pequeñas empresas</a></li>
-                                <li><a href="" class="textoDestacado">Foros</a></li>
+                                <li><a class="textoDestacado">Portafolio web</a></li>
+                                <li><a class="textoDestacado">Webs para pequeñas empresas</a></li>
+                                <li><a class="textoDestacado">Foros</a></li>
                             </ul>`;
             break;
         case "sql":
@@ -66,8 +66,8 @@ function mostrarConocimiento(elementID) {
                             </p>
                             <p>Aquí algunos proyectos pequeños con los que aprendí:</p>
                             <ul>
-                                <li><a href="" class="textoDestacado">Gestión de servidores</a></li>
-                                <li><a href="" class="textoDestacado">Gestión y seguimiento de pequeñas empresas</a></li>
+                                <li><a class="textoDestacado">Gestión de servidores</a></li>
+                                <li><a class="textoDestacado">Gestión y seguimiento de pequeñas empresas</a></li>
                             </ul>`;
             break;
         case "git":
