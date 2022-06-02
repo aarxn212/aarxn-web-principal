@@ -77,7 +77,7 @@ function mostrarConocimiento(elementID) {
                             <p>
                                 Conocí Git gracias a un proyecto que teníamos en común varias personas y necesitabamos saber que cambios se hacían, las versiones que teniamos y una larga lista de ventajas.
                             </p>
-                            <p>Mi Git personal: <a href="https://github.com/aarxn0" target="_blank" class="link textoDestacado">github.com/aarxn0</a></p>`;
+                            <p>Mi Git personal: <a href="https://github.com/aarxn212" target="_blank" class="link textoDestacado">github.com/aarxn0</a></p>`;
             break;
         default:
             elem.innerHTML = "";
